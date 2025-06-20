@@ -40,7 +40,7 @@ It is **fully mobile- and tablet-optimized**, allowing **doctors and research st
   <img src="EASI-App3.jpg" alt="Mobile View" width="30%"/>
 </p>
 
-<p align="center"><em>Left to right: Input Interface, Score Output, Mobile Layout</em></p>
+<p align="center"><em>Mobile Layout</em></p>
 
 ---
 
