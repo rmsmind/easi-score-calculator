@@ -34,15 +34,13 @@ It is **fully mobile- and tablet-optimized**, allowing **doctors and research st
 
 ## 🖼 Screenshots
 
-**1. Homepage Input Interface**  
-![Homepage](EASI-App.jpg)
+<p align="center">
+  <img src="EASI-App.jpg" alt="Homepage" width="30%" style="margin-right: 10px;"/>
+  <img src="EASI-App2.jpg" alt="Score Output" width="30%" style="margin-right: 10px;"/>
+  <img src="EASI-App3.jpg" alt="Mobile View" width="30%"/>
+</p>
 
-**2. Score Calculation Output**  
-![Score Output](EASI-App2.jpg)
-
-**3. Mobile-Friendly Layout**  
-The app is designed for easy use on **tablets and smartphones** by doctors and research staff during bedside or in-clinic assessments.  
-![Mobile View](EASI-App3.jpg)
+<p align="center"><em>Left to right: Input Interface, Score Output, Mobile Layout</em></p>
 
 ---
 
@@ -68,3 +66,4 @@ It reflects the standard EASI calculation used in clinical trials and dermatolog
 ---
 
 📌 *Created by Jorge Juarez – M.S. Applied Statistics Student @ University of Oklahoma*
+
